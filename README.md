@@ -1,7 +1,9 @@
 # Sugar
 A pygame implementation of the board game Sugar.
 
+
 Summary of the rules:
+
 There are two players. Each has 6 sugar packages (red and blue squares). They take turns placing them untill they both finish. Then, they take turn moving untill one of them can't move (because all otehr pieces are on top, or because there are no legal moves remaining)
  
 * Pieces can move up, down, left, or right, but not diagonally.
