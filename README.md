@@ -8,7 +8,7 @@ There are two players. Each has 6 sugar packages (red and blue squares). They ta
  
 * Pieces can move up, down, left, or right, but not diagonally.
 * A piece can move from one stack unto anotehr only if the end stack has equal or less height than the starting stack.
-* In the placing phase, there is a maximum of three copying moves (putting yout piece on top of a piece that was put inmediately before you)
+* In the placing phase, there is a maximum of three copying moves (putting your piece on top of a piece that was put inmediately before you)
 
 The game features human vs human play, as well as an AI that uses minimax and alpha-beta pruning
 
